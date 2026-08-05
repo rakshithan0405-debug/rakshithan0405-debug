@@ -56,23 +56,17 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎉 Eventara – College Event Manager - A full-stack web application for managing college events.
+- 🎉 **Eventara – College Event Manager**  
+  A full-stack web application for managing college events.
 
-## 📚 EduNexus - A responsive frontend website designed for an educational platform.
+- 📚 **EduNexus**  
+  A responsive frontend website designed for an educational platform.
 
-## 💻 Learning Course Manager - A course management system with frontend and database integration.
+- 💻 **Learning Course Manager**  
+  A course management system with frontend and database integration.
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 # 🌱 Currently Learning
 
