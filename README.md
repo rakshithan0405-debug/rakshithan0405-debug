@@ -72,14 +72,17 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 Medical Report Analyzer – Full Stack Application
 
-- A full-stack platform that allows users to upload medical reports in PDF or image format.
-- Uses OCR and AI to extract medical values and explain them in simple language.
-- Includes trend charts, an AI chatbot, Simple/Doctor views, and text-to-speech accessibility.
-- Expanding into a unified clinical risk platform with medicine adherence tracking and ML-based risk scoring.
+### 🏥 Medical Report Analyzer – Major Project
+**Status: 🚧 Currently Under Development**
 
-**Technologies:** React, Tailwind CSS, Node.js, Express.js, Python FastAPI, MongoDB, OCR, Gemini API
+- Developing an AI-powered platform to analyze medical reports uploaded as PDFs or images.
+- Working on OCR and AI-based extraction of medical values with simple explanations.
+- Planned features include medical trend visualization, an AI chatbot, and text-to-speech accessibility.
+- Future enhancements include medicine adherence tracking and ML-based risk scoring.
+
+**Planned Technologies:** React, Tailwind CSS, Node.js, Express.js, Python FastAPI, MongoDB, OCR, Gemini API
+
 
 ### 🎉 Eventara – College Event Manager
 
